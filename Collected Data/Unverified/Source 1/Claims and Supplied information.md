@@ -9,13 +9,16 @@ Source 1 claims the following:
   ![[karel claims blackmailing 2.png]]
   [\^-Source-\^](https://twitter.com/KarelHulec/status/1538427836456894465)
 ![[Creative Insults 1.png]]
- - Karel wants the team to use real names rather than their personas. ["https://twitter.com/KarelHulec/status/1509152615686414341" and "https://twitter.com/KarelHulec/status/1509135778156367878"]
+ - Karel wants the team to use real names rather than their personas. ![[karel employees real name 2.png]]
+   [\^-Source-\^](https://twitter.com/KarelHulec/status/1509135778156367878)
+  ![[karel employees real name 1.png]]
+  [\^-Source-\^](https://twitter.com/KarelHulec/status/1509152615686414341)
+- karel has given way to much information on the way Froox use to live... and heavily hinting on wanting to fire every last one of the devs that worked on this project.) 
+![[karel_personal_info_frooxiuis_twitlonger.png]]
+ [\^-Source-\^](https://www.twitlonger.com/show/n_1srv51s)
+~~-People use NCR as fuel for anti/pro crypto campaigns(NCR isn't really the issue at hand with the dev team. although it was the catalyst for a lot of the issues a lot of people use the NCR as a focus to try and run with their own anti-crypto (or pro-crypto ideals)) [No Evidance, Speculation]~~
 
-- karel has given way to much information on the way Froox use to live... and heavily hinting on wanting to fire every last one of the devs that worked on this project.) ["https://www.twitlonger.com/show/n_1srv51s"]
-
-- People use NCR as fuel for anti/pro crypto campaigns(NCR isn't really the issue at hand with the dev team. although it was the catalyst for a lot of the issues a lot of people use the NCR as a focus to try and run with their own anti-crypto (or pro-crypto ideals)) [No Evidance, Speculation]
-
-- Informs us that the company is owned 42.5%/42.5% with 15% owned by Rothenberg Ventures, The 15% bit they have to manually claim however Rothenberg Ventures was disolved due to legal issues and is currently at a stalemate of ownership/decision. Most just refer to this as 50/50 ownership as that is effectively what it is and is easier than the full thing.
+- Informs us that the company is owned 42.5%/42.5% with 15% owned by Rothenberg Ventures, The 15% bit they have to manually claim however Rothenberg Ventures was disolved due to legal issues and is currently at a stalemate of ownership/decision. Most just refer to this as 50/50 ownership as that is effectively what it is and is easier than the full thing.(**Citation Required-Public financial records)**
 ["https://discord.com/channels/402159838827905024/996964315145961542/1001913563734081657"]
 
 - The decisions of Karel have been detrimental to the project and go against the dev teams advice((every part that Karel was in control of has actually had massive massive issues and has slowed down a lot of development from what I've gathered from the dev team....) [single recent example of this: "https://discord.com/channels/402159838827905024/735381514988159016/1010153704558702642"]

@@ -1,0 +1,3 @@
+[submodule "Neos-Archive"]
+	path = Neos-Archive
+	url = https://github.com/leetfin/Neos-Archive.git

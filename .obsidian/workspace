@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 367.5
   },
   "right": {
     "id": "629018cc6d82f8a8",
@@ -130,15 +130,15 @@
   },
   "active": "4d1587e17d574529",
   "lastOpenFiles": [
+    "Collected Data/Unverified/Source 1/Evidence/Karel Twitter Posts/karel_personal_info_frooxiuis_twitlonger.png",
+    "Collected Data/Unverified/Source 1/Evidence/Karel Twitter Posts/Karel disclosing personal information Frooxius.md",
+    "Collected Data/Unverified/Source 1/Evidence/Karel Twitter Posts/karel employees real name 2.png",
+    "Collected Data/Unverified/Source 1/Claims and Supplied information.md",
+    "Collected Data/Unverified/Source 1/Evidence/Karel Twitter Posts/Untitled.md",
     "Collected Data/Unverified/Source 1/Evidence/Karel Twitter Posts/Creative Insults 1.png",
     "History.md",
-    "Collected Data/Unverified/Source 1/Claims and Supplied information.md",
     "Karel.md",
     "Collected Data/Unverified/Source 1/Untitled.md",
-    "Individuals/Frooxius.md",
-    "README.md",
-    "Collected Data/Verified/placeholder.md",
-    "general-overview.md",
-    "Collected Data/Unverified/placeholder.md"
+    "Individuals/Frooxius.md"
   ]
 }
