@@ -1,7 +1,6 @@
 # The History of NeosVR
 This document contains a detailed report of the history of NeosVR
 
-
 ## Table of Contents
 1. [[#General Overview]]
 2. [[#TBF]]
