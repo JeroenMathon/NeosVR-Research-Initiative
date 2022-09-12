@@ -7,13 +7,8 @@
         "id": "e6dc1785db6bb3f4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "History.md",
-            "mode": "preview",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "History.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -129,10 +120,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e6dc1785db6bb3f4",
+  "active": "6ecfef291a570e6e",
   "lastOpenFiles": [
-    "general-overview.md",
     "History.md",
+    "general-overview.md",
     "Individuals/Tomas “Frooxius” Mariancik.md",
     "Collected Data/Verified/placeholder.md",
     "Collected Data/Unverified/placeholder.md",
