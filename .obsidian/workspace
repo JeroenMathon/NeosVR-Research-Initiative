@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Collected Data/Verified/placeholder.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Collected Data/Verified/placeholder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Collected Data/Verified/placeholder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Collected Data/Verified/placeholder.md"
               }
             }
           }
@@ -129,5 +129,8 @@
     "collapsed": true
   },
   "active": "e6dc1785db6bb3f4",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Collected Data/Unverified/placeholder.md",
+    "README.md"
+  ]
 }
