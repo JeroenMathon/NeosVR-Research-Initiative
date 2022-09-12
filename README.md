@@ -21,3 +21,6 @@ For maltego, PDF renders of the documents will be provided in the repository mak
 Anyone can contribute data, trough merge requests data can be added to this repository, all submitted data must be verifiable and must contain instructions to do so.
 
 We are also looking for people that have pragmatic analysis skills that possess a unbiased position in the conflict, this is to maintain the integrity of this scientific project.
+
+### Cloning
+You can fork the project to make your changes and than do a pull request to commit them to the project, Make sure to run the following command to clone your fork `git clone --recurse-submodules YOUR_FORK_CLONE_URL` To get all the archives that are linked
