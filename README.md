@@ -8,7 +8,7 @@ All collected data will be verified and become verifiable for everyone.
 
 ## The tools
 In order to maximize efficiency we employ the use of the following tools:
-- https://flathub.org/apps/details/md.obsidian.Obsidian
+- https://obsidian.md/
 	- Obsidian is a markdown knowledge base tool that we use for cataloging data, this aims to make the information more accesible during the research/investigation phase of the project
 - https://www.maltego.com/product-features/
 	- Maltego is an opensource intelligence and graphical link analysis tool, which will aid in estabelishing data with certain relations, this tool is merely a supplement to the inforrmation documented trough Obsidian

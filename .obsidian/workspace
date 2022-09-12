@@ -7,9 +7,11 @@
         "id": "4d1587e17d574529",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Collected Data/Unverified/Source 1/Claims and Supplied information v1.pdf"
+            "file": "README.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collected Data/Unverified/Source 1/Claims and Supplied information v1.pdf",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collected Data/Unverified/Source 1/Claims and Supplied information v1.pdf",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collected Data/Unverified/Source 1/Claims and Supplied information v1.pdf"
+                "file": "README.md"
               }
             }
           }
@@ -129,6 +131,7 @@
   "active": "4d1587e17d574529",
   "lastOpenFiles": [
     "Collected Data/Unverified/Source 1/Claims and Supplied information.md",
+    "Collected Data/Unverified/Source 1/Claims and Supplied information v1.pdf",
     "Neos-Archive/Telegram/Neos Metaverse - Neos Credits/ChatExport_2022-03-05 - Karel's Copium Den/photos/photo_1@05-03-2022_14-42-06_thumb.jpg",
     "Neos-Archive/Telegram/Neos Metaverse - Neos Credits/ChatExport_2022-03-05 - Karel's Copium Den/photos/photo_1@05-03-2022_14-42-06.jpg",
     "Collected Data/Unverified/Source 1/Evidence/Karel Twitter Posts/karel_personal_info_frooxiuis_twitlonger.png",
@@ -136,7 +139,6 @@
     "Collected Data/Unverified/Source 1/Evidence/Karel Twitter Posts/karel employees real name 2.png",
     "Collected Data/Unverified/Source 1/Evidence/Karel Twitter Posts/Untitled.md",
     "Collected Data/Unverified/Source 1/Evidence/Karel Twitter Posts/Creative Insults 1.png",
-    "History.md",
-    "Karel.md"
+    "History.md"
   ]
 }
