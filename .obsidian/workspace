@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "History.md",
-            "mode": "source",
+            "mode": "preview",
+            "backlinks": true,
             "source": false
           }
         }
@@ -130,6 +131,9 @@
   },
   "active": "e6dc1785db6bb3f4",
   "lastOpenFiles": [
+    "general-overview.md",
+    "History.md",
+    "Individuals/Tomas “Frooxius” Mariancik.md",
     "Collected Data/Verified/placeholder.md",
     "Collected Data/Unverified/placeholder.md",
     "README.md"
