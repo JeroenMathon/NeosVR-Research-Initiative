@@ -11,7 +11,7 @@ C/O Tc Group, The Granary, Hones Yard, 1 Waverley Lane, Farnham, Surrey, England
 Company type: Private limited Company
 Nature of business (SIC):
 - 62011 - Ready-made interactive leisure and entertainment software development
--   62012 - Business and domestic software development
+- 62012 - Business and domestic software development
 
 Socials:
 - [Linkedin](https://www.linkedin.com/company/neosvr/jobs/)
