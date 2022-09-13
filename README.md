@@ -13,7 +13,8 @@ In order to maximize efficiency we employ the use of the following tools:
 - https://www.maltego.com/product-features/
 	- Maltego is an opensource intelligence and graphical link analysis tool, which will aid in estabelishing data with certain relations, this tool is merely a supplement to the inforrmation documented trough Obsidian
 
-Obsidian will not be required to analyze the data since it will all be stored in markdown format, tho it will be a lot easier to interpret the data using this tool
+Obsidian will not be required to analyze the data since it will all be stored in markdown format, tho it will be a lot easier to interpret the data using this tool:
+![Obsidian in Action](https://github.com/JeroenMathon/NeosVR-Research-Initiative/raw/main/readme_screenshot.png)
 
 For maltego, PDF renders of the documents will be provided in the repository making the data accesible for any party interested
 
