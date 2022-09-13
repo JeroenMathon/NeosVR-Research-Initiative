@@ -18,5 +18,6 @@ Socials:
 
 # Ownership dispute
 There has been unclear information regarding who owns [[Solirax]] Officially [[Karel Hulec]] and [[Tomas "Frooxius" Mariancik]] Both hold the title of Company Directory, There for they equally own [[Solirax]]
+
 ### Sources
 1. [Government Registration](https://find-and-update.company-information.service.gov.uk/company/09279564) ^d6ddb9
