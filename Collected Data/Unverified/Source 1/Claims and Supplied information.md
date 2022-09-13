@@ -1,3 +1,7 @@
+> [!WARNING]
+> **The majority of this information is unverified!
+> Until proper processing has been performed this information is just information**
+
 Source 1 claims the following:
 - Dev teams are not giving out enough information for the community to help.
  - To elaborate on this most information publically available comes from [[Karel Hulec|Karel]] himself (Most of the information on how things are going I've gotten from [[Karel Hulec|Karel]]'s own mouth and well... they clearly treat the dev team and [[Tomas "Frooxius" Mariancik|Frooxius]] rather horridly.) [No Evidance, Explination of the Following]
