@@ -82,7 +82,7 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "intrest",
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -96,7 +96,7 @@
               "state": {
                 "file": "Organisations/Solirax.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -125,20 +125,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "9d4fe9b760b4b2dc",
   "lastOpenFiles": [
+    "Resources/Images/Solirax Logo.jpg",
+    "Collected Data/Unverified/Source 1/Claims and Supplied information.md",
+    "[Karel Hulec.md",
+    "Organisations/Solirax.md",
+    "Individuals/Karel Hulec.md",
+    "Organisations/NeosVR.md",
     "Individuals/Tomas \"Frooxius\" Mariancik.md",
     "Resources/Images/Frooxius Avatar.jpg",
     "Resources/Images/Karel Avatar.jpg",
-    "Organisations/Solirax.md",
-    "Individuals/Karel Hulec.md",
-    "Collected Data/Unverified/Source 1/Claims and Supplied information.md",
-    "Collected Data/Unverified/Source 1/Claims and Supplied information v1.pdf",
-    "[[Karel.md",
-    "Frooxius Avatar.jp.md",
-    "Untitled.md"
+    "Collected Data/Unverified/Source 1/Claims and Supplied information v1.pdf"
   ]
 }

@@ -1,5 +1,7 @@
 # Solirax LTD
-![[Pasted image 20220913140649.jpg]]
+![[Solirax Logo.jpg]]
+Solirax Limited is a private company in charge of  the development of [[NeosVR]]
+### Company Information
 Company Number: 09279564
 Date of Incorporation: 24 October 2014
 Registered office address:
