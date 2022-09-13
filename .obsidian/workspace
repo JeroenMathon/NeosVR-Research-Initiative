@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4d1587e17d574529",
+        "id": "9d4fe9b760b4b2dc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Collected Data/Unverified/Source 1/Claims and Supplied information.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "6e9a7ba5a2502fbf",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Individuals/Tomas \"Frooxius\" Mariancik.md",
+            "file": "Organisations/Solirax.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individuals/Tomas \"Frooxius\" Mariancik.md",
+                "file": "Organisations/Solirax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Individuals/Tomas \"Frooxius\" Mariancik.md",
+                "file": "Organisations/Solirax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Individuals/Tomas \"Frooxius\" Mariancik.md"
+                "file": "Organisations/Solirax.md"
               }
             }
           }
@@ -140,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6e9a7ba5a2502fbf",
+  "active": "9d4fe9b760b4b2dc",
   "lastOpenFiles": [
-    "Frooxius Avatar.jp.md",
     "Individuals/Tomas \"Frooxius\" Mariancik.md",
     "Resources/Images/Frooxius Avatar.jpg",
-    "Untitled.md",
-    "History.md",
-    "Collected Data/Unverified/Source 1/Claims and Supplied information.md",
+    "Resources/Images/Karel Avatar.jpg",
     "Organisations/Solirax.md",
-    "README.md",
+    "Individuals/Karel Hulec.md",
+    "Collected Data/Unverified/Source 1/Claims and Supplied information.md",
     "Collected Data/Unverified/Source 1/Claims and Supplied information v1.pdf",
-    "Neos-Archive/Telegram/Neos Metaverse - Neos Credits/ChatExport_2022-03-05 - Karel's Copium Den/photos/photo_1@05-03-2022_14-42-06_thumb.jpg"
+    "[[Karel.md",
+    "Frooxius Avatar.jp.md",
+    "Untitled.md"
   ]
 }
