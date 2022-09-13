@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Individuals/Karel Hulec.md",
+            "file": "Organisations/Solirax.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individuals/Karel Hulec.md",
+                "file": "Organisations/Solirax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Individuals/Karel Hulec.md",
+                "file": "Organisations/Solirax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Individuals/Karel Hulec.md"
+                "file": "Organisations/Solirax.md"
               }
             }
           }
