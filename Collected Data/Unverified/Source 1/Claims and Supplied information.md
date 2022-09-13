@@ -61,7 +61,7 @@ Source 1 claims the following:
     
     TwitLonger is the easy way to post more than 140 characters to Twitter
     
-    ![](https://images-ext-1.discordapp.net/external/aEeSnQbLHGBg70a3r6Vz-UuVvWABUVI4uncHdu9AgQ4/https/pbs.twimg.com/profile_images/1515848658230554626/XnapRxkt_400x400.jpg)[Geenz! (@GeenzVR)](https://twitter.com/GeenzVR)
+    ![](https://images-ext-1.discordapp.net/external/aEeSnQbLHGBg70a3r6Vz-UuVvWABUVI4uncHdu9AgQ4/https/pbs.twimg.com/profile_images/1515848658230554626/XnapRxkt_400x400.jpgGeenzVR)](https://twitter.com/GeenzVR)
     
     Yeah, because having one full time engineer that does things like transplanting entire physics engines in ~1 month's time is "slow" while the rest of us use what free time we have due to other jobs adds things over the weekend from time to time. Like a color management pipeline.
     
